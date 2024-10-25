@@ -1,0 +1,185 @@
+2024-10-24 16:29:25,103 - db_helper - INFO - delete_expense_for_date called with date 2024-08-01
+2024-10-24 16:29:25,146 - db_helper - INFO - insert_records called with date 2024-08-01
+2024-10-24 16:29:29,334 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 16:56:43,502 - db_helper - INFO - fetch_all_records_for_date called with date 2024-10-24
+2024-10-24 16:57:44,471 - db_helper - INFO - fetch_all_records_for_date called with date 2024-10-24
+2024-10-24 16:59:09,287 - db_helper - INFO - fetch_all_records_for_date called with date 2024-10-24
+2024-10-24 16:59:12,365 - db_helper - INFO - fetch_all_records_for_date called with date 2024-10-25
+2024-10-24 16:59:19,591 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 16:59:22,678 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-02
+2024-10-24 17:06:28,598 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-02
+2024-10-24 17:06:54,921 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-02
+2024-10-24 17:07:03,081 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-02
+2024-10-24 17:11:33,334 - db_helper - INFO - fetch_all_records_for_date called with date 2024-10-24
+2024-10-24 17:11:37,196 - db_helper - INFO - fetch_all_records_for_date called with date 2024-10-25
+2024-10-24 17:11:43,607 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:23:06,392 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:24:17,494 - db_helper - INFO - fetch_all_records_for_date called with date 2024-10-24
+2024-10-24 17:25:51,930 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:26:21,524 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:26:34,405 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:26:39,531 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:26:40,342 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:26:41,202 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:28:45,672 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:29:19,653 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:29:38,764 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:30:02,901 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:30:30,519 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:36:41,867 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:36:58,998 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:37:06,972 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:37:17,778 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:37:20,066 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:37:20,570 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:37:42,817 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:37:58,357 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:38:10,772 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:38:24,909 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:38:47,630 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:39:35,176 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:39:38,329 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:40:15,892 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:40:54,465 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:40:57,333 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:40:58,136 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:40:58,356 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:41:15,194 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:41:42,429 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:42:35,632 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:42:50,766 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:42:58,606 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:43:08,341 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:43:26,924 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:44:31,815 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:44:59,632 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:45:18,392 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:45:35,053 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:47:11,040 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:47:28,828 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:47:30,984 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:47:31,638 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:48:01,784 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:48:35,141 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:49:00,484 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:49:55,453 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:50:03,309 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-02
+2024-10-24 17:50:46,516 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-02
+2024-10-24 17:53:30,143 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-02
+2024-10-24 17:55:09,765 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-07
+2024-10-24 17:57:25,328 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-07
+2024-10-24 17:57:29,073 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:57:51,363 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-24 17:58:09,039 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:27:41,993 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:28:52,853 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:30:46,490 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:31:38,390 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:31:47,325 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:31:49,792 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:31:51,084 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:31:51,716 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:31:56,151 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:31:59,621 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:32:12,116 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:32:54,636 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:32:58,331 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:33:00,587 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:33:07,490 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:33:32,525 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:33:34,790 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:33:37,087 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:37:07,990 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:37:14,967 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:37:24,098 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:38:00,653 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:38:05,114 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:38:31,693 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:38:49,767 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:40:16,376 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:40:18,073 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:40:25,129 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:40:28,773 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:44:22,782 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:47:53,041 - db_helper - INFO - update_expense called with id 72
+2024-10-25 13:48:04,280 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:50:58,545 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:51:23,293 - db_helper - INFO - update_expense called with id 72
+2024-10-25 13:51:27,805 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:51:34,057 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:53:17,530 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 13:53:19,711 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:11:15,199 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:11:20,590 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:11:20,623 - db_helper - INFO - update_expense called with id 73
+2024-10-25 14:11:27,611 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:14:14,842 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:14:28,207 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:14:44,710 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:15:02,581 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:15:12,437 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:15:16,605 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:21:42,891 - db_helper - INFO - delete_expense_for_date called with date 2024-08-01
+2024-10-25 14:21:42,910 - db_helper - INFO - insert_records called with date 2024-08-01
+2024-10-25 14:21:43,416 - db_helper - INFO - delete_expense_for_date called with date 2024-08-01
+2024-10-25 14:21:43,444 - db_helper - INFO - insert_records called with date 2024-08-01
+2024-10-25 14:21:48,125 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:21:54,240 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:21:54,264 - db_helper - INFO - delete_expense_for_date called with date 2024-08-01
+2024-10-25 14:21:54,288 - db_helper - INFO - insert_records called with date 2024-08-01
+2024-10-25 14:22:10,410 - db_helper - INFO - delete_expense_for_date called with date 2024-08-01
+2024-10-25 14:22:10,443 - db_helper - INFO - insert_records called with date 2024-08-01
+2024-10-25 14:22:40,673 - db_helper - INFO - insert_records called with date 2024-08-01
+2024-10-25 14:22:44,700 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:22:51,588 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:22:51,621 - db_helper - INFO - insert_records called with date 2024-08-01
+2024-10-25 14:22:55,496 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 14:34:59,877 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-25
+2024-10-25 14:36:53,641 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 14:37:25,680 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 14:58:26,584 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 14:59:38,301 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:03:52,963 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:10:40,888 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:10:59,139 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:11:20,215 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:11:22,326 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:12:39,065 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:12:40,136 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:12:40,869 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:14:19,817 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:14:21,914 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:14:33,217 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:14:36,455 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:16:06,392 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:16:08,417 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:16:08,445 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:19:08,594 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:19:12,091 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:19:12,117 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:20:12,256 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:20:14,886 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:20:14,914 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:21:21,296 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:21:23,445 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:21:23,463 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:21:35,316 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:21:35,335 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:21:43,322 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:21:45,806 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:21:49,353 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:21:49,375 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:26:50,330 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:26:52,313 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:26:52,328 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:27:19,918 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:27:22,331 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:27:22,354 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:29:55,876 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:30:04,856 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:30:09,968 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:30:11,574 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:30:11,591 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
+2024-10-25 15:31:15,318 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:31:17,937 - db_helper - INFO - fetch_all_records_for_date called with date 2024-08-01
+2024-10-25 15:31:17,968 - db_helper - INFO - fetch_expense_summary called with start_date 2024-08-01 and end_date 2024-08-05
